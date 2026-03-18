@@ -1,1 +1,119 @@
-add ur c3c cookie here
+[
+	{
+		"key": "dbln",
+		"value": "%7B%2261585704009963%22%3A%22bttkqivH%22%7D",
+		"domain": "facebook.com",
+		"path": "/login/device-based/",
+		"hostOnly": false,
+		"creation": "2026-03-18T05:04:51.661Z",
+		"lastAccessed": "2026-03-18T05:04:51.669Z"
+	},
+	{
+		"key": "datr",
+		"value": "MDG6aYOCRoVhqheeWJBNzr6V",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-03-18T05:04:51.669Z",
+		"lastAccessed": "2026-03-18T05:04:51.669Z"
+	},
+	{
+		"key": "sb",
+		"value": "MDG6ad0-igl0eU_Md2Nw-4cb",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-03-18T05:04:51.669Z",
+		"lastAccessed": "2026-03-18T05:04:51.669Z"
+	},
+	{
+		"key": "m_pixel_ratio",
+		"value": "1.6193748712539673",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-03-18T05:04:51.669Z",
+		"lastAccessed": "2026-03-18T05:04:51.669Z"
+	},
+	{
+		"key": "wd",
+		"value": "400x892",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-03-18T05:04:51.669Z",
+		"lastAccessed": "2026-03-18T05:04:51.669Z"
+	},
+	{
+		"key": "c_user",
+		"value": "61585704009963",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-03-18T05:04:51.669Z",
+		"lastAccessed": "2026-03-18T05:04:51.669Z"
+	},
+	{
+		"key": "xs",
+		"value": "47%3AVPe8UePEXcfR6g%3A2%3A1773809992%3A-1%3A-1",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-03-18T05:04:51.669Z",
+		"lastAccessed": "2026-03-18T05:04:51.669Z"
+	},
+	{
+		"key": "fr",
+		"value": "0sM0buzTyBQel7Rj3.AWfQ_WKYgq1cvtzT8GJLSVgjsOW-xsCd4hVgl3ZN-gv_q_aZACc.BpujEw..AAA.0.0.BpujFP.AWdsZqAumtvGbsCbaInroiCFlNI",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-03-18T05:04:51.669Z",
+		"lastAccessed": "2026-03-18T05:04:51.669Z"
+	},
+	{
+		"key": "locale",
+		"value": "en_US",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-03-18T05:04:51.669Z",
+		"lastAccessed": "2026-03-18T05:04:51.669Z"
+	},
+	{
+		"key": "pas",
+		"value": "61585704009963%3AxG8I7ljB4a",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-03-18T05:04:51.669Z",
+		"lastAccessed": "2026-03-18T05:04:51.669Z"
+	},
+	{
+		"key": "wl_cbv",
+		"value": "v2%3Bclient_version%3A3113%3Btimestamp%3A1773810000",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-03-18T05:04:51.669Z",
+		"lastAccessed": "2026-03-18T05:04:51.669Z"
+	},
+	{
+		"key": "fbl_st",
+		"value": "101027277%3BT%3A29563500",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-03-18T05:04:51.669Z",
+		"lastAccessed": "2026-03-18T05:04:51.669Z"
+	},
+	{
+		"key": "vpd",
+		"value": "v1%3B799x400x1.6193748712539673",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-03-18T05:04:51.669Z",
+		"lastAccessed": "2026-03-18T05:04:51.669Z"
+	}
+] ur c3c cookie here
